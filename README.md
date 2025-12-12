@@ -94,15 +94,15 @@ Performance metrics are plotted over the epochs to track learning progress.
 
 ##  Results
 
-### ✔ Test Accuracy
+### Test Accuracy
 
 The trained model reached a test accuracy of **approximately 0.99**, indicating excellent generalization.
 
-### ✔ Loss Curves
+### Loss Curves
 
 The training and validation loss curves decrease smoothly, reaching very low values.
 
-### ✔ Accuracy Curves
+### Accuracy Curves
 
 Both training and validation accuracy climb rapidly, achieving nearly perfect classification after several epochs.
 
